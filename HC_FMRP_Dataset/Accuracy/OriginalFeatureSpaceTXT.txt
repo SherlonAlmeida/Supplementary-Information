@@ -1,0 +1,139 @@
+Executando classificadores: feature_name=Feature1
+----Score do classificador 'Nearest Neighbors': 85.68
+----Score do classificador 'SVM Linear': 85.22
+----Score do classificador 'SVM Polinomial grau 3': 74.70
+----Score do classificador 'Decision Tree (gini)': 82.85
+----Score do classificador 'Random Forest': 86.31
+----Score do classificador 'Neural Net': 83.60
+----Score do classificador 'AdaBoost': 87.21
+----Score do classificador 'Naive Bayes': 81.43
+
+Executando classificadores: feature_name=Feature2
+----Score do classificador 'Nearest Neighbors': 90.77
+----Score do classificador 'SVM Linear': 91.00
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 85.03
+----Score do classificador 'Random Forest': 89.02
+----Score do classificador 'Neural Net': 90.14
+----Score do classificador 'AdaBoost': 86.51
+----Score do classificador 'Naive Bayes': 88.66
+
+Executando classificadores: feature_name=Feature3
+----Score do classificador 'Nearest Neighbors': 84.68
+----Score do classificador 'SVM Linear': 87.70
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 81.10
+----Score do classificador 'Random Forest': 85.82
+----Score do classificador 'Neural Net': 87.22
+----Score do classificador 'AdaBoost': 84.06
+----Score do classificador 'Naive Bayes': 82.62
+
+Executando classificadores: feature_name=Feature4
+----Score do classificador 'Nearest Neighbors': 81.48
+----Score do classificador 'SVM Linear': 92.21
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 74.74
+----Score do classificador 'Random Forest': 77.92
+----Score do classificador 'Neural Net': 87.79
+----Score do classificador 'AdaBoost': 82.96
+----Score do classificador 'Naive Bayes': 76.83
+
+Executando classificadores: feature_name=Feature5
+----Score do classificador 'Nearest Neighbors': 90.15
+----Score do classificador 'SVM Linear': 91.25
+----Score do classificador 'SVM Polinomial grau 3': 50.25
+----Score do classificador 'Decision Tree (gini)': 85.94
+----Score do classificador 'Random Forest': 89.78
+----Score do classificador 'Neural Net': 90.52
+----Score do classificador 'AdaBoost': 88.49
+----Score do classificador 'Naive Bayes': 88.48
+
+Executando classificadores: feature_name=Feature6
+----Score do classificador 'Nearest Neighbors': 87.88
+----Score do classificador 'SVM Linear': 90.35
+----Score do classificador 'SVM Polinomial grau 3': 57.13
+----Score do classificador 'Decision Tree (gini)': 85.84
+----Score do classificador 'Random Forest': 89.65
+----Score do classificador 'Neural Net': 89.52
+----Score do classificador 'AdaBoost': 87.33
+----Score do classificador 'Naive Bayes': 85.70
+
+Executando classificadores: feature_name=Feature7
+----Score do classificador 'Nearest Neighbors': 86.26
+----Score do classificador 'SVM Linear': 93.20
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 83.68
+----Score do classificador 'Random Forest': 80.07
+----Score do classificador 'Neural Net': 91.81
+----Score do classificador 'AdaBoost': 87.22
+----Score do classificador 'Naive Bayes': 80.71
+
+Executando classificadores: feature_name=Feature8
+----Score do classificador 'Nearest Neighbors': 90.02
+----Score do classificador 'SVM Linear': 91.40
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 83.43
+----Score do classificador 'Random Forest': 89.27
+----Score do classificador 'Neural Net': 89.79
+----Score do classificador 'AdaBoost': 87.25
+----Score do classificador 'Naive Bayes': 88.80
+
+Executando classificadores: feature_name=Feature9
+----Score do classificador 'Nearest Neighbors': 87.76
+----Score do classificador 'SVM Linear': 93.46
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 82.80
+----Score do classificador 'Random Forest': 81.21
+----Score do classificador 'Neural Net': 91.05
+----Score do classificador 'AdaBoost': 87.78
+----Score do classificador 'Naive Bayes': 82.54
+
+Executando classificadores: feature_name=Feature10
+----Score do classificador 'Nearest Neighbors': 83.59
+----Score do classificador 'SVM Linear': 93.07
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 79.63
+----Score do classificador 'Random Forest': 77.68
+----Score do classificador 'Neural Net': 91.17
+----Score do classificador 'AdaBoost': 86.49
+----Score do classificador 'Naive Bayes': 77.99
+
+Executando classificadores: feature_name=Feature11
+----Score do classificador 'Nearest Neighbors': 90.90
+----Score do classificador 'SVM Linear': 91.78
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 86.55
+----Score do classificador 'Random Forest': 90.78
+----Score do classificador 'Neural Net': 90.64
+----Score do classificador 'AdaBoost': 87.97
+----Score do classificador 'Naive Bayes': 89.02
+
+Executando classificadores: feature_name=Feature12
+----Score do classificador 'Nearest Neighbors': 89.53
+----Score do classificador 'SVM Linear': 93.46
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 81.40
+----Score do classificador 'Random Forest': 82.40
+----Score do classificador 'Neural Net': 91.68
+----Score do classificador 'AdaBoost': 88.49
+----Score do classificador 'Naive Bayes': 83.91
+
+Executando classificadores: feature_name=Feature13
+----Score do classificador 'Nearest Neighbors': 87.01
+----Score do classificador 'SVM Linear': 93.07
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 83.84
+----Score do classificador 'Random Forest': 82.32
+----Score do classificador 'Neural Net': 91.43
+----Score do classificador 'AdaBoost': 88.74
+----Score do classificador 'Naive Bayes': 81.37
+
+Executando classificadores: feature_name=Feature14
+----Score do classificador 'Nearest Neighbors': 87.88
+----Score do classificador 'SVM Linear': 93.07
+----Score do classificador 'SVM Polinomial grau 3': 50.00
+----Score do classificador 'Decision Tree (gini)': 82.76
+----Score do classificador 'Random Forest': 81.33
+----Score do classificador 'Neural Net': 90.93
+----Score do classificador 'AdaBoost': 88.40
+----Score do classificador 'Naive Bayes': 83.16
